@@ -5,7 +5,7 @@ This is a central repository to storage my config files in order to make them ea
 Clone the repo into a directory, as example `~/.dotfiles`:
 
 ```
-git clone https://github.com/luigieli/dotfiles.git ~/.dotfiles
+git clone https://github.com/MarcosMMarques/dotfiles.git ~/.dotfiles
 ```
 To install each dotfiles manually:
 
